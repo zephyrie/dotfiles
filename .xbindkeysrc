@@ -1,0 +1,31 @@
+"thunar $HOME"
+  m:0x40 + c:41
+  Mod4 + f
+
+"xflock4"
+  m:0x40 + c:46
+  Mod4 + l
+
+"xkill"
+  m:0x40 + c:53
+  Mod4 + x
+
+"google-chrome-stable"
+  m:0x40 + c:54
+  Mod4 + c
+
+"xfce4-popup-whiskermenu"
+  m:0x40 + c:55
+  Mod4 + v
+
+"subl3"
+  m:0x40 + c:39
+  Mod4 + s
+
+"4term"
+  m:0x40 + c:42
+  Mod4 + g
+
+"xfce4-terminal"
+  m:0x40 + c:28
+  Mod4 + t
